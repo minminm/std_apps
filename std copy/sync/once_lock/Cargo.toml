@@ -1,0 +1,4 @@
+[package]
+name = "sync_once_lock"
+version = "0.1.0"
+edition = "2021"
